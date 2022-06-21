@@ -12,7 +12,7 @@ class Shape{
         
     }
     calculateArea(){
-
+        console.log("current area is zero")
     }
 
 }
